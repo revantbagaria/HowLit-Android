@@ -1,0 +1,2 @@
+# HowLit-Android
+Have you found yourself debating with your friends about which nightclub to go to on a weekend evening? HowLit can help you reach a consensus. It is an android mobile application that queries the Yelp API to find a list of all the the nightclubs in a specified city. The application allows users to "upvote" or "downvote" a venue for a given night, and keeps track of the votes in real time, using Firebase (a realtime could-based database). Subsequently, other users can open the application and decide on where to go based on the votes.
