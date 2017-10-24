@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722449355118",
+    "firebase_url": "https://howlit-369b9.firebaseio.com",
+    "project_id": "howlit-369b9",
+    "storage_bucket": "howlit-369b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722449355118:android:42808bacea999f39",
+        "android_client_info": {
+          "package_name": "hu.ait.howlit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722449355118-qc6uecrm4qpduq5kgl6a7vebtontr368.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.ait.howlit",
+            "certificate_hash": "c4dc133a2536246fa277d4b69ab1553ef806755e"
+          }
+        },
+        {
+          "client_id": "722449355118-lahu57ga6t7m5h3tm94n7poebbnck7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKgTRDKghVrjD_UCKdwhw1lkQT9L67jHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722449355118-lahu57ga6t7m5h3tm94n7poebbnck7bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
