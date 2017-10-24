@@ -9,6 +9,6 @@ In addition to using the Yelp api and Firebase, some other features we implement
 
 This project is complete. Feel free to download it and run it. Please note, it needs to be run through Android Studio (which needs to be downloaded). 
 
-#Note
+# Note
 
-Currently the Yelp api for the city of San Franciso, the location (longitude and latitude) of which is hardcoded. This can easily be changed to your requirement. 
+Currently the Yelp api is queried for the city of San Franciso, the location (longitude and latitude) of which is hardcoded. This can easily be changed according to your requirement. 
